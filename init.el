@@ -33,7 +33,7 @@ values."
             shell-default-height 30
             shell-default-position 'bottom)
      ;; ispell
-     ;; spell-checking
+     spell-checking
      syntax-checking
      version-control
 
